@@ -21,7 +21,3 @@ I'm a TIC student at the Syrian Virtual University, currently mastering the art 
 
 ### 📊 GitHub Stats:
 ![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMMAR-ALKHATEEB&show_icons=true&theme=tokyonight)
-
----
-
-*"Securing the future, one byte at a time."*
