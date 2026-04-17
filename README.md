@@ -12,7 +12,7 @@ I'm a TIC student at the Syrian Virtual University, currently mastering the art 
 ---
 
 ### 🛠️ Tech Stack & Tools:
-- **Languages:** Python, Bash
+- **Languages:** Python
 - **Security:** Nmap, Metasploit, Burp Suite
 - **OS:** Kali Linux, Ubuntu
 - **Current Focus:** CPTS Certification & Network Security
